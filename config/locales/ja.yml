@@ -1,0 +1,28 @@
+ja:
+  datetime:
+    distance_in_words:
+      half_a_minute: "たった今"
+      less_than_x_seconds:
+        one:   "たった今"
+        other: "%{count}秒"
+      x_seconds:
+        one:   "たった今"
+        other: "%{count}秒"
+      less_than_x_minutes:
+        one:   "1分前"
+        other: "%{count}分前"
+      x_minutes:
+        one: "1分前"
+        other: "%{count}分前"
+      about_x_hours:
+        one:   "約1時間前"
+        other: "約%{count}時間前"
+      x_days:
+        one: "1日前"
+        other: "%{count}日前"
+      x_months:
+        one: "1ヶ月前"
+        other: "%{count}ヶ月前"
+      about_x_years:
+        one: "約1年前"
+        other: "約%{count}年前"
