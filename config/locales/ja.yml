@@ -26,3 +26,12 @@ ja:
       about_x_years:
         one: "約1年前"
         other: "約%{count}年前"
+  activerecord:
+    errors:
+      messages:
+        blank: "が入力されていません。"
+        invalid: "不正な値です。"
+        confirmation: "一致しません。"
+        too_short: "が短すぎます。"
+        too_long: "が長すぎます。"
+        
